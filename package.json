@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "dev-t":"export NODE_OPTIONS=--openssl-legacy-provider"
+    "dev-t":"set NODE_OPTIONS=--openssl-legacy-provider"
   },
   "dependencies": {
     "core-js": "^3.6.5",
