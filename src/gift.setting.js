@@ -6,7 +6,7 @@ export const GLOBAL_KEYS = {
 };
 
 // 是否允许对方在抽奖结束后重新抽奖
-export const IS_SHOW_RESTART = false;
+export const IS_SHOW_RESTART = true;
 
 // 首页配置
 export const homeConfig = {
@@ -38,5 +38,5 @@ export const gifts = [
   { key: 't', name: '草莓熊公仔', alias: '草莓熊', image: '/images/5.jpg',  description: '「陪你在身边」' },
   { key: 'y', name: '210红包', alias: '210', image: '/images/6.png',  description: '“从今往后，我都会在你旁边”' },
   { key: 'u', name: '玫瑰花一束', alias: '玫瑰花', image: '/images/7.png',  description: '“热恋、热情、热爱着你”' },
-  { key: 'i', name: '小女朋友套装', alias: '套装', image: '/images/8.png',  description: '「永远爱你，哪里都爱」' },
+  { key: 'i', name: '茵曼500元无门槛', alias: '优惠券', image: '/images/9.png',  description: '「买！就完了」' },
 ];
